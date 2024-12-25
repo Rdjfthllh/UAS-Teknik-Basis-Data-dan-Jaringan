@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "676c52f7ddf9a5f2d84eeb86"
+  },
+  "Id": 1,
+  "Nama": "Radja",
+  "Jenis_Kelamin": "Laki-Laki",
+  "Alamat": "Pamulang",
+  "Riwayat_Medis": "Tidak Ada"
+},
+{
+  "_id": {
+    "$oid": "676c52f7ddf9a5f2d84eeb87"
+  },
+  "Id": 2,
+  "Nama": "Parto",
+  "Jenis_Kelamin": "Laki-Laki",
+  "Alamat": "Jauh",
+  "Riwayat_Medis": "Paru-paru basah, kanker"
+}]

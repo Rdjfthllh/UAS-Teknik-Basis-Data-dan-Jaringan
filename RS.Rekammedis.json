@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "676c5487ddf9a5f2d84eeb8a"
+  },
+  "Id": 1,
+  "Id_Pasien": 1,
+  "Id_Dokter": 1,
+  "Diagnosis": "Sakit hati",
+  "Tanggal": "21 Desember 2024"
+},
+{
+  "_id": {
+    "$oid": "676c5487ddf9a5f2d84eeb8b"
+  },
+  "Id": 2,
+  "Id_Pasien": 2,
+  "Id_Dokter": 1,
+  "Diagnosis": "Sakit sakitan mulu",
+  "Tanggal": "21 oktober 2045"
+}]

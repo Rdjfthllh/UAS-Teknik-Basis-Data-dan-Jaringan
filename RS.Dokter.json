@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "676c53a6ddf9a5f2d84eeb88"
+  },
+  "Id": 1,
+  "Nama": "Radja",
+  "Spesialis": "Hati",
+  "Alamat": "Pamulang",
+  "Jadwal": "Rabu-Jumat"
+},
+{
+  "_id": {
+    "$oid": "676c53a6ddf9a5f2d84eeb89"
+  },
+  "Id": 2,
+  "Nama": "siapa",
+  "Spesialis": "apa kek",
+  "ALamat": "disitu dah",
+  "Jadwal": "kalo mood"
+}]
