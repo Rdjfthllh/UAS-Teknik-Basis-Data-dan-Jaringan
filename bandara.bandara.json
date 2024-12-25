@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "676c5921ddf9a5f2d84eeb92"
+  },
+  "Id_bandara": 1,
+  "Nama": "Soekarno Hatta",
+  "IATA_Code": "CGK",
+  "Kota": "Jakarta",
+  "Negara": "Indonesia"
+},
+{
+  "_id": {
+    "$oid": "676c5921ddf9a5f2d84eeb93"
+  },
+  "Id_bandara": 2,
+  "Nama": "Halim Perdanakusuma",
+  "IATA_Code": "HLP",
+  "Kota": "Jakarta",
+  "Negara": "Indonesia"
+},
+{
+  "_id": {
+    "$oid": "676c5921ddf9a5f2d84eeb94"
+  },
+  "Id_bandara": 3,
+  "Nama": "Juanda",
+  "IATA_Code": "SBY",
+  "Kota": "Surabaya",
+  "Negara": "Indonesia"
+}]

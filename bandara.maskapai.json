@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "676c5757ddf9a5f2d84eeb8c"
+  },
+  "Id_maskapai": 111,
+  "Nama": "Garuda",
+  "IATA_Code": "GRD",
+  "asal_negara": "Indonesia"
+},
+{
+  "_id": {
+    "$oid": "676c5757ddf9a5f2d84eeb8d"
+  },
+  "Id_maskapai": 122,
+  "Nama": "Batik Air",
+  "IATA_Code": "BTK",
+  "asal_negara": "Indonesia"
+},
+{
+  "_id": {
+    "$oid": "676c5757ddf9a5f2d84eeb8e"
+  },
+  "Id_maskapai": 133,
+  "Nama": "malaysia airlines",
+  "IATA_Code": "MLY",
+  "asal_negara": "Malaysia"
+}]

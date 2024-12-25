@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "676c583fddf9a5f2d84eeb8f"
+  },
+  "Id_penerbangan": 10,
+  "Id_maskapai": 111,
+  "Nomor_penerbangan": 1,
+  "Status": "Take off"
+},
+{
+  "_id": {
+    "$oid": "676c583fddf9a5f2d84eeb90"
+  },
+  "Id_penerbangan": 19,
+  "Id_maskapai": 111,
+  "Nomor_penerbangan": 2,
+  "Status": "Taxi"
+},
+{
+  "_id": {
+    "$oid": "676c583fddf9a5f2d84eeb91"
+  },
+  "Id_penerbangan": 28,
+  "Id_maskapai": 111,
+  "Nomor_penerbangan": 3,
+  "Status": "Landing"
+}]
